@@ -4,8 +4,10 @@ Educational institutions now a days are producing a vast amount of data that can
 
 Project Requirements
 
-Python Libraries		      :	Numpy, Pandas, Train_test_split, Matplotlib, Scikit-learn.Dash
+Python Libraries		      :	Numpy, Pandas, Train_test_split, Matplotlib, Scikit-learn,Dash.
+
 Server Side Technologies 	: Python, Machine Learning.
+
 Project IDE			          :	Anaconda Python.
-Data Set			            :	student data set with Roll-number, Subject name, Mid1 marks, 
-                            Mid2 marks, Semester marks as column labels.
+
+Data Set			            :	student data set with Roll-number, Subject name, Mid1 marks, Mid2 marks, Semester marks as column labels.
